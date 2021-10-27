@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-15 05:49:17</sys_created_on>
+        <sys_id>646723042f1f3010c62e51172799b696</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="Innovate" source="x_707711_innovate">f9d33bab2f033010c62e51172799b686</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">f9d33bab2f033010c62e51172799b686</sys_scope>
+        <sys_update_name>sys_ui_policy_action_646723042f1f3010c62e51172799b696</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-15 05:49:17</sys_updated_on>
+        <table>x_707711_innovate_innovate</table>
+        <ui_policy display_value="UI Policy Test">6e55a7802f1f3010c62e51172799b6de</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
